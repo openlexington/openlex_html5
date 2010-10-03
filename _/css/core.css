@@ -202,6 +202,10 @@ body.home #content div.block2 a img {
 	margin-top: 14px;
 	opacity: .5;
 }
+body.home #content div.block2 a:hover img {
+	margin-top: 14px;
+	opacity: 1;
+}
 
 
 #content a:hover, #content a:active{
