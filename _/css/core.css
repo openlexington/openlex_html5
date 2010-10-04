@@ -252,6 +252,10 @@ body.home #content div.block2 a:hover img {
 #content .block2 p, #content .block3 p {
 	text-align:center;
 }
+div#opendata h1, div#opendata {
+  text-align:left;
+  margin-left:30px;
+}
 footer a:link, footer a:visited{
 	text-decoration: none;
 	color: #4d300f;
