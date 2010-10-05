@@ -222,6 +222,14 @@ body.home #content div.block2 a:hover img {
 	padding-bottom: .5em;
 	/*font-weight:bold;*/
 }
+#content p.big{
+	font-size:2em;
+	text-align: left;
+	line-height:1.2em;
+	padding-left: .5em;
+	padding-bottom: .5em;
+	/*font-weight:bold;*/
+}
 #content p{
 	text-align: left;
 }
