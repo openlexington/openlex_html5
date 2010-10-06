@@ -251,7 +251,8 @@ body.home #content div.block2 a:hover img {
 .block1 { width:400px; }
 .block2 { 
 	width:400px;
-	padding-top: 70px;
+	/*padding-top: 70px;*/
+	padding-top:30px;
 }
 .block3 {
   width:400px;
