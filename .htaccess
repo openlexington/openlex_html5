@@ -1,6 +1,8 @@
 DirectoryIndex index.html
 FileETag All
 
+ErrorDocument 404 /404.html
+
 # Compress all static assets
 <IfModule mod_deflate.c>
 	# compress content with type html, text, and css
