@@ -279,3 +279,29 @@ footer a:hover, footer a:active{
 #connect h1{
   font-size: 150%;
 }
+.people {
+  margin-left:30px;
+  
+}
+div.people p{
+  margin:0;
+  padding:0;
+}
+div.people span.name{
+  font-size: 200%;
+  line-height: 1em;
+  margin:0;
+  padding:0;
+
+}
+.people img {
+  border: 1px solid #999;
+  padding:2px;
+  margin-right:1em;
+  float: left;
+}
+.heading1{
+  text-align:left;
+  margin:1em 30px;
+  font-size:2em;
+}
