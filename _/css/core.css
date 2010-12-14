@@ -133,6 +133,12 @@ ul#navlist li{
 	padding-bottom: 0;
 	margin-bottom: 0;
 }
+#navlist li a.current{
+  border-bottom: 5px solid #4d300f;
+  padding-bottom: 0;
+	margin-bottom: 0;
+	
+}
 #content{
 	text-align:center;
 	width:940px;
@@ -304,4 +310,10 @@ div.people span.name{
   text-align:left;
   margin:1em 30px;
   font-size:2em;
+}
+#content div.people span.name a:link, #content div.people span.name a:visited{
+  text-decoration:none;
+}
+#content div.people span.name a:hover, #content div.people span.name a:active{
+  text-decoration:underline;
 }
